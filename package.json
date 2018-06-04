@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "Search User GitHub",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "diegorondao <drondao@autodoc.com.br>",
@@ -10,7 +10,9 @@
     "unit": "jest --config test/unit/jest.conf.js --coverage",
     "e2e": "node test/e2e/runner.js",
     "test": "npm run unit && npm run e2e",
-    "build": "node build/build.js"
+    "build": "node build/build.js",
+    "postinstall": "npm run build",
+    "start": "node server.js"
   },
   "dependencies": {
     "axios": "^0.18.0",
