@@ -1,30 +1,18 @@
-# y
+# Projeto desenvolvido com Vue.js
 
-> A Vue.js project
 
-## Build Setup
+## Sobre
 
-``` bash
-# install dependencies
-npm install
+* G
+* Projeto acadêmico com intuito de aprofundar meus conhecimentos na tecnologia.
+* Ele é apenas um material de didático e não deve ser usado em produção.
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
+## Example
+* [Example](https://github-search-vue.herokuapp.com/)
 
-# build for production and view the bundle analyzer report
-npm run build --report
 
-# run unit tests
-npm run unit
+## Instalação
 
-# run e2e tests
-npm run e2e
+Para instalar é simples, apenas baixe utilizando o botão Download ZIP ai do lado, ou clone este repositório.
 
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
